@@ -1,26 +1,2 @@
-# Node.js dependencies
-node_modules/
-npm-debug.log
-yarn-error.log
-
-# Vercel build artifacts
-.vercel/
-
-# Environment variables (if you're storing them in a .env file)
+/node_modules/
 .env
-
-# IDE and editor specific files
-.vscode/
-.idea/
-*.iml
-
-# Logs and temporary files
-*.log
-*.tmp
-
-# Compiled output (if any)
-dist/
-
-# Cache and build directories
-.cache/
-build/
